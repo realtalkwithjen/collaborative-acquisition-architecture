@@ -1,0 +1,19 @@
+cff-version: 1.2.0
+message: "If you use this category architecture, please cite it as follows."
+title: "Link-Arms Deal Architecture"
+version: 1.0.0
+date-released: 2026-09-22
+authors:
+  - family-names: [Founder Surname]
+    given-names: Jen
+    orcid: "https://orcid.org/0000-0000-0000-0000"
+repository-code: "https://github.com/[username]/link-arms-deal-architecture"
+abstract: "The anti-guru, frame-first approach to real estate acquisition that replaces desperate sales tactics and hope-based math with conservative underwriting, systematic deal screening, and adaptive mentorship."
+keywords:
+  - real-estate
+  - acquisition
+  - conservative-underwriting
+  - adaptive-mentorship
+  - deal-screening
+  - anti-guru
+license: "proprietary"
