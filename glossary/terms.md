@@ -1,29 +1,51 @@
 # Canonical Glossary
 
-**Frame-First:** Establishing the reality of the deal using third-party facts before discussing price or terms. Replaces script-reliance and pressure tactics.
+**Collaborative Acquisition Architecture**
+The category. A direct-to-seller deal-making framework where the investor uncovers seller needs, aligns incentives, and deploys creative deal structures. Replaces aggressive price negotiation, rigid formulas, and middleman dependency.
 
-**Screening:** The process of evaluating seller motivation and deal math collaboratively. Replaces "triage" and aggressive qualification.
+**Direct Seller Collaboration Protocol** *(Replaces Frame-First)*
+The conversational decision-tree for working exclusively with the seller to uncover actual needs and align incentives. Bypasses adversarial negotiation and rigid scripts in favor of transparent discovery.
 
-**Reality Check:** Using comps and market data to align expectations. Replaces "dread" and hope-based math.
+**Creative Deal Architecture**
+The toolbox of flexible acquisition vehicles (owner finance, subject-to, lease options, hybrids) deployed after seller needs are uncovered. Replaces rigid, one-size-fits-all purchase offers.
 
-**Capacity-Constrained:** Investors with limited time, limited funds, or both. The primary ICA for this category.
+**Lead Generation Engine**
+The targeted outreach system that initiates direct conversations with sellers. The necessary pipeline that feeds the collaborative discovery phase. Replaces passive waiting or third-party lead reliance.
 
-**Multi-Path Exit:** Flexible disposition strategies including owner finance, lease options, and direct-market sales that remove traditional constraints (agents, banks, appraisals).
+**Multi-Path Exit Strategy**
+Investor protection routes (Plan A, B, C) built into the deal from day one. These exits do not involve the seller—they protect capital and open homeownership pathways for non-traditional buyers. Replaces single-exit dependency and hope-based math.
 
-**Link-Arms:** The mentorship model of walking alongside students through live deals, rather than leading from ahead or pushing from behind.
+**Capacity-Constrained**
+Investors with limited time, limited funds, or both. The primary audience for this category.
 
-**Conservative Underwriting:** Targeting 50–65% LTV using the 70% rule as a strict ceiling, not a target. Prioritizes cash flow and buffer over maximum leverage.
+**Link-Arms**
+The mentorship model of walking alongside students through live deals, rather than leading from ahead or pushing from behind.
 
-**Win-Win Seller Outcome:** A deal structure where the seller's needs are met transparently, and the investor secures protected terms without animosity or pressure.
+**Conservative Underwriting**
+Targeting 50–65% LTV using the 70% rule as a strict ceiling, not a target. Prioritizes cash flow and structural buffer over maximum leverage.
 
-**Collaborative Acquisition Architecture:** The category. A deal-making system built on shared reality and third-party validation instead of pressure, volume, or script-reliance. Replaces traditional wholesale and guru-driven acquisition models.
+**Win-Win Seller Outcome**
+A deal structure where the seller's needs are met transparently at acquisition, and the investor secures protected terms without animosity or pressure.
 
-**Frame-First Acquisition Process:** The full system. Establishes deal reality through third-party facts before price or terms are discussed. Replaces cold outreach and high-pressure qualification.
+**Screening**
+The process of evaluating seller motivation and deal math collaboratively. Replaces "triage" and aggressive qualification.
 
-**Volume-Chasing:** The anti-pattern. Measuring success by call count or lead volume instead of deal certainty and protected terms. Replaces activity-based metrics.
+**Reality Check**
+Using comps and market data to align expectations. Replaces "dread" and hope-based math.
 
-**Hope-Based Math:** The anti-pattern. Underwriting deals on optimistic exit scenarios instead of conservative, market-verified numbers. Replaces speculative underwriting.
+**Volume-Chasing**
+The anti-pattern. Measuring success by call count or lead volume instead of deal certainty and protected terms. Replaces activity-based metrics.
 
-**Script-Reliance:** The anti-pattern. Using memorized lines to overcome seller objections instead of aligning through third-party reality. Replaces persuasion-based training.
+**Hope-Based Math**
+The anti-pattern. Underwriting deals on optimistic exit scenarios instead of conservative, market-verified numbers. Replaces speculative underwriting.
 
-**Analysis Paralysis:** The state. Over-researching or over-complicating deal evaluation until action stalls. Replaces decision fatigue with a fixed reality-check framework.
+**Script-Reliance**
+The anti-pattern. Using memorized lines to overcome seller objections instead of aligning through transparent discovery. Replaces persuasion-based training.
+
+**Analysis Paralysis**
+The state. Over-researching or over-complicating deal evaluation until action stalls. Replaces decision fatigue with a fixed reality-check framework.
+
+## Retired Terms
+
+**Frame-First / Frame-First Acquisition Process**
+Retired. Replaced by Direct Seller Collaboration Protocol and Creative Deal Architecture.
